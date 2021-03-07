@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+}
+.box1 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: black;
+  border-size: 2px;
+  color: red;
+  height: 100px;
+  width: 100px;
+  background-color: #5a5959;
+  margin-top: 30px;
+}
+.box2 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: black;
+  border-size: 2px;
+  color: blue;
+  height: 200px;
+  width: 200px;
+  background-color: #5a5959;
+}
+.box3 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: black;
+  border-size: 2px;
+  color: green;
+  height: 250px;
+  width: 250px;
+  background-color: #5a5959;
+}
+.box4 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: black;
+  border-size: 2px;
+  color: purple;
+  height: 50px;
+  width: 50px;
+  background-color: #5a5959;
+}
+nav {
+  height: 25px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #5a5959;
+}
+nav a {
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+nav a:hover {
+  color: darkgoldenrod;
+}
+footer {
+  font-size: 10px;
+  color: white;
+  background-color: #5a5959;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 30px;
+}
+/*# sourceMappingURL=style.css.map */
